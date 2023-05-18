@@ -2,5 +2,8 @@
 > Status do projeto: Utilizado para aprender paginas dinamicas com JavaScipt
 
 ```
-treinando
+treinando as linguagens:
 ````
+>HTML <BR>
+>CSS <BR>
+>JAVASCRIPT
